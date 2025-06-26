@@ -1,5 +1,5 @@
 const isLeader=true;
-if(isLeader==true){
+if(isLeader){
     console.log('chair saro ');
 }
 else{
